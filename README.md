@@ -2,7 +2,7 @@
 
 📗 **Android Development**: 3 years  
 📗 **Extensible Markup Language (XML)**: 3 years  
-📗 **Java Programming**: 3 years 
+📗 **Java Programming**: 3 years  
 📗 **UI/UX Design**: 3 years  
 📗 **Figma and Canva Design**: 3 years  
 📗 **Git and GitHub**: 3 years  
