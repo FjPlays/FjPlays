@@ -1,7 +1,6 @@
 💻 Fernando Jose Jacala : Android Development Tech Stack
 
 📗 Android Development: 3 years
-
 📗 Extensible Markup Language (XML): 3 years
 
 📗 Java Programming: 3 years
