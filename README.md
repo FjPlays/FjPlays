@@ -24,5 +24,5 @@
 📗 **Jetpack Compose**: 2 year  
 📗 **Unit Testing**: 2 year  
 
-📫 **Reach me at**: Fjjacala.dev@gmail.com 
+📫 **Reach me at**: Fjjacala.dev@gmail.com  
 🌐 **Portfolio**: https://drive.google.com/drive/folders/1lVCQjbbaDo1jHWSKVGE8c3IcqfKBJutC?usp=sharing
